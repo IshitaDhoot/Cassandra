@@ -6,9 +6,9 @@ I'll also explore read/write availability tradeoffs. We always want sensors to b
 
 Objectives:
 
-create a schema for a Cassandra table that uses a partition key, cluster key, and static column
-configure Spark catalogs to gain access to external data sources
-create custom Cassandra types
-create custom Spark UDFs (user defined functions)
-configure queries to tradeoff read/write availability
-refresh a stale cache
+- create a schema for a Cassandra table that uses a partition key, cluster key, and static column
+- configure Spark catalogs to gain access to external data sources
+- create custom Cassandra types
+- create custom Spark UDFs (user defined functions)
+- configure queries to tradeoff read/write availability
+- refresh a stale cache
